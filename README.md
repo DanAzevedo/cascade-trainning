@@ -1,2 +1,2 @@
 # cascadeTrainning
- Estudo de treinamento de cascades.
+Criando/Treinando um arquivo HaarCascade.
